@@ -62,7 +62,8 @@
 // console.log(modifiedPersons);
 
 //Task 7
-const numbers = [1, 2, 3, 4, 5];
+// const numbers = [1, 2, 3, 4, 5];
 
-const mappedNumbers = numbers.map((number) => ({ id: number }));
-console.log(mappedNumbers);
+// const mappedNumbers = numbers.map((number) => ({ id: number }));
+// console.log(mappedNumbers);
+
